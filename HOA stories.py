@@ -17,8 +17,7 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 # List of broader keywords
 keywords = [
  "HOA horror stories", "true crime drama", "justice stories", 
- "federal prosecutor", "real estate scams", 
-"neighborhood drama", "property rights battles", "legal revenge", 
+ "federal prosecutor","legal revenge", 
 "community justice", "dramatic true stories", "resilience tales", 
 "HOA abuse", "prosecutor vs HOA", "scam exposed","HOAstories", "KarenCaught", "HOADrama", 
 "HOAProblems","EntitledKaren","RealLifeStory","hoakaren","HOA"
